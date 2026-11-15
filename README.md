@@ -1,1 +1,1 @@
-# git-exercise
+This is our Git project
