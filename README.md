@@ -1,1 +1,1 @@
-This is our Git project
+This is Developer B project
