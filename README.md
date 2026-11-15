@@ -1,1 +1,1 @@
-This is Developer B project
+This is Developer B and Developer A project
